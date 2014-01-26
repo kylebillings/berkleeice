@@ -1,0 +1,48 @@
+body {
+	font-family: "Lato";
+	background-color: #f0f8ff;
+}
+
+#abovefold {
+	text-align: center;
+	margin-top: 140px;
+}
+
+#abovefold h1 {
+	font-size: 4.5rem;
+	font-weight: 300;
+	color: #333;
+	margin-bottom: 0px;
+}
+
+#abovefold h3 {
+	color: #a2a2a2;
+	font-weight: 100;
+	margin-top: 5px;
+}
+
+#signup {
+	margin-top:70px;
+}
+
+#email {
+	border: 1px solid #a2a2a2;
+	font-size: 1rem;
+	font-family: "Lato";
+	font-weight: 300;
+	margin-bottom: 20px;
+}
+
+#submit {
+	background-color: #333;
+	color: white;
+	font-family: "Lato";
+	font-weight: 100;
+	font-size: 1.2rem;
+	padding: 7px 15px;
+	border: none;
+}
+
+#submit:hover {
+	background-color: black;
+}
